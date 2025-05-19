@@ -104,5 +104,5 @@ MIT – Uso libre con fines educativos y corporativos. Compartí, adaptá, mejor
 
 ---
 
-**Hablemos de Hacking – 2024**  
+**Federico Miskinich | @hablemosdehacking **  
 Instagram: [@hablemosdehacking](https://instagram.com/hablemosdehacking)
