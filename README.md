@@ -16,7 +16,7 @@ Diseñado como el hermano complementario de Hunter, **C3** proporciona una **rad
 
 ## 🧠 ¿Qué hace?
 
-✅ Evalúa más de **60 controles** del benchmark oficial CIS, incluyendo:
+✅ Evalúa más de **30 controles** del benchmark oficial CIS, incluyendo:
 
 - Políticas de contraseñas y bloqueo de cuentas
 - Configuración de firewall y puertos
